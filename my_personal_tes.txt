@@ -1,0 +1,1 @@
+Initializing a local repositoru and pushing it to remote repo
